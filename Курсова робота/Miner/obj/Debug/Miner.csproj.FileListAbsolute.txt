@@ -1,0 +1,11 @@
+C:\Users\Влад\Desktop\Miner\bin\Debug\Miner.exe.config
+C:\Users\Влад\Desktop\Miner\bin\Debug\Miner.exe
+C:\Users\Влад\Desktop\Miner\bin\Debug\Miner.pdb
+C:\Users\Влад\Desktop\Miner\obj\Debug\Miner.csproj.AssemblyReference.cache
+C:\Users\Влад\Desktop\Miner\obj\Debug\Miner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Влад\Desktop\Miner\obj\Debug\Miner.Form1.resources
+C:\Users\Влад\Desktop\Miner\obj\Debug\Miner.Properties.Resources.resources
+C:\Users\Влад\Desktop\Miner\obj\Debug\Miner.csproj.GenerateResource.cache
+C:\Users\Влад\Desktop\Miner\obj\Debug\Miner.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\Miner\obj\Debug\Miner.exe
+C:\Users\Влад\Desktop\Miner\obj\Debug\Miner.pdb
